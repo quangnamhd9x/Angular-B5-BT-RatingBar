@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AppRate';
+
+  onRateChange(value) {
+    console.log(value);
+  }
 }

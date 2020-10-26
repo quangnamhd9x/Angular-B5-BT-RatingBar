@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AppRate"
+    }
+  },
+  "defaultProject": "AppRate",
+  "cli": {
+    "analytics": "ae9b9ae5-af2d-4fc3-9616-f2413ff25be9"
+  }
 }
